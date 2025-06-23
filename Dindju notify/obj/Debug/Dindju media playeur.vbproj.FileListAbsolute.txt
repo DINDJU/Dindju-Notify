@@ -1,0 +1,14 @@
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\obj\Debug\Dindju media playeur.vbproj.AssemblyReference.cache
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\obj\Debug\Dindju media playeur.vbproj.GenerateResource.cache
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\obj\Debug\Dindju media playeur.vbproj.CoreCompileInputs.cache
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\bin\Debug\Dindju notify.exe.config
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\bin\Debug\Dindju notify.exe
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\bin\Debug\Dindju notify.pdb
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\bin\Debug\Dindju notify.xml
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\obj\Debug\Dindju_notify.Form1.resources
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\obj\Debug\Dindju_notify.LockedForm.resources
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\obj\Debug\Dindju_notify.Resources.resources
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\obj\Debug\Dindju notify.exe
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\obj\Debug\Dindju notify.xml
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\obj\Debug\Dindju notify.pdb
+C:\Users\juin2025\mathis.dame\source\repos\Dindju media playeur\Dindju media playeur\obj\Debug\Dindju_notify.Scanneur_d_ip.resources
